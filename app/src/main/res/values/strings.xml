@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">राष्ट्रीय समान अधिकार </string>
+    <string name="title_activity_category_fragment">News Category</string>
+    <!--favorite-->
+    <string name="no_favorite_found">Your favorite list is empty because you don\'t add any news in the favorite menu.</string>
+
+    <!--comments-->
+
+    <!--register-->
+
+    <!--login-->
+
+    <!--logout-->
+
+    <!--forgot password-->
+
+    <!--permission-->
+
+    <!-- toolbar and title-->
+
+    <!--bottom navigation title-->
+
+    <!--about information-->
+
+    <!--network message-->
+    <string name="msg_no_news">Oops, it looks like there are no video available for this category at this time.</string>
+    <string name="msg_no_category">Oops, No Category Found!</string>
+
+    <!--dialog choose option-->
+
+    <!--form-->
+
+    <!--button-->
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+
+    <!--profile-->
+
+    <!--close message-->
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password (optional)</string>
+    <string name="Login_Email_ID_ContactNo">Email ID/Phone No</string>
+    <string name="app_name_ForLogin">राष्ट्रीय समान अधिकार  Login</string>
+    <string name="news_headline">News Headline</string>
+    <string name="no_of_news_view">No Of News View</string>
+    <string name="news_created_date">News Created Date</string>
+    <string name="news_location">News Location</string>
+    <string name="rashtriya_saman_adhikar">Rashtriya Saman Adhikar</string>
+</resources>
