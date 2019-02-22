@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        style="@android:style/Widget.DeviceDefault.Light.ScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbarStyle="insideOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/aa_newsheadline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="1dp"
+                android:text="सवर्णों के लिए आजादी की लड़ाई ही राष्ट्रीय समान अधिकार यात्रा : रोहित सिंह रैकवार"
+                android:textColor="#000000"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="2dp"
+                tools:layout_editor_absoluteY="2dp" />
+
+            <ImageView
+                android:id="@+id/headlineimage"
+                android:layout_width="wrap_content"
+                android:layout_height="253dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/a" />
+
+            <TextView
+                android:id="@+id/aa_newssubheading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:paddingTop="10dp"
+                android:text="हमनें सभी समाज के लिए जमीन दान कर विद्यालय, चिकित्सालय, बाजार समितियों का निर्माण किया। राजनीति दलों ने इस समर्पण का राजनैतिक महत्वाकांक्षा के लिए अंतिम संस्कार कर दिया।"
+                android:textSize="18dp" />
+
+            <ImageView
+                android:layout_width="411dp"
+                android:layout_height="240dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/b" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:paddingTop="10dp"
+                android:textSize="18dp"
+                android:text="राष्ट्रीय समान अधिकार यात्रा एक ऐसा सामाजिक और न्यायायिक सोच़ हैं जो भारत का सुदृढ़ निर्माण कर सकें। राष्ट्रीय समानता एक व्यापक राजनैतिक सोच़ हैं, जिसका परिणाम ही आने वाले समय में एकत्रित भारत का निर्माण करेगा। निरंतरता से सुदृढ़ भारत बनाने में हमेशा से सवर्ण समाज का योगदान रहा है। इसी को व्यापक रूप से बनाने के लिए सवर्णों को भीड़तंत्र में बदलने के लिए ही 25 फरवरी 2019 को गाँधी मैदान पटना में एकत्रित हो कर हुँकार भरेंगे।" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="240dp"
+                android:src="@drawable/c"
+                android:paddingTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:textSize="18dp"
+                android:paddingTop="10dp"
+                android:text="रोहित सिंह रैकवार कहते हैं कि राष्ट्रीय समान अधिकार यात्रा का व्यापक सोच़ है कि हम पटेल के विचारों को बड़ा बनाये। सरदार पटेल की एक व्यापक सोच़ ही थी, जिसके कारण 562 रियासतें एक साथ भारत को एक बनाने का काम किया । सभी रियासतों ने ही मिलकर भारत के संचालन के लिए आर्थिक मदद कर एक मजबूत स्तंभ तैयार किया । जिसके कारण ही आज तक आरक्षण, 2-4 रूपये गेहूँ-चावल देकर भारत की गरीबी रेखा से नीचे 40% आबादी को मजबूत करने के लिए सवर्णों ने ही योगदान दिया।"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="240dp"
+                android:src="@drawable/d"
+                android:paddingTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:textSize="18dp"
+                android:paddingTop="10dp"
+                android:text="आगे रोहित सिंह रैकवार कहते हैं कि एक मजबूत और अखंड भारत का सपना पूरा करने में राष्ट्रीय समान अधिकार यात्रा मददगार साबित होगा। हमें याद करने की जरूरत है कि आजादी के समय भारत की मात्र 2% लोगों के पास ही भारत की कुल 95% धन था। तो वहीं किसानों की खेती भारत की अर्थव्यवस्था को मजबूती प्रदान कर रहे थे। देश में शिक्षा का स्तर नगन्य हो चुका था, वहीं स्वास्थ्य सेवा ध्वस्त को जीवनदायिनी बनाने के लिए भारत एवं राज्यों की सरकारों को सवर्णों ने जमीन देकर प्रत्येक भारतीयों के लिए समानता की नींव रखी। जाति-धर्म से उपर उठकर सभी के लिए मूलभूत सुविधाओं की व्यवस्था कर सर्वांगीण विकास किया।"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="240dp"
+                android:src="@drawable/e"
+                android:paddingTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:textSize="18dp"
+                android:paddingTop="10dp"
+                android:text="इसलिए ही रोहित सिंह रैकवार कहते हैं कि एकबार फिर से राष्ट्र पर राजनैतिक खतरें मंडरा रहा है। सवर्णो द्वारा स्थापित किया गया विद्यालय, स्वास्थ्य सेवा, उद्योग, बाजार समितियों, किसानों के जीवन को जीवनदायिनी बनाने के लिए 25 फरवरी 2019 को गाँधी मैदान पटना में आयोजित महारैली में अपना महत्वपूर्ण योगदान एकबार फिर दे। आजादी की लड़ाई की तरह ही आम आदमी को राजनैतिक महत्वाकांक्षी दलालों से मुक्ति के लिए सवर्णों को एक बार फिर लोकतांत्रिक तरीके से गाँधी मैदान पटना में अपना स्वाभिमान बचाने के लिए आगे आना होगा।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/activity_newsshare"/>
+
+</RelativeLayout>

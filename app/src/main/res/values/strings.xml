@@ -46,4 +46,6 @@
     <string name="news_created_date">News Created Date</string>
     <string name="news_location">News Location</string>
     <string name="rashtriya_saman_adhikar">Rashtriya Saman Adhikar</string>
+    <string name="newsheadline">Newsheadline</string>
+    <string name="newssubheading">newssubheading</string>
 </resources>

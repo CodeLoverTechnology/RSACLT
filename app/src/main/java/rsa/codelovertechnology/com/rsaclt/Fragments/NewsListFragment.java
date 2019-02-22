@@ -60,7 +60,7 @@ public class NewsListFragment  extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        listModelList = new ArrayList<NewsListModel>();
+       listModelList = new ArrayList<NewsListModel>();
         /*listModelList.add(new NewsListModel(
                 1,
                 "Text", 5,
@@ -389,7 +389,6 @@ public class NewsListFragment  extends Fragment {
                 Log.d("onFailure  " , "getMessage() : " + t.getMessage());
                 //*text_View_Result.setText(t.getMessage());*//*
             }
-
         });
         return listNewsWebApiData;
     }

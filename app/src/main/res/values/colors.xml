@@ -8,4 +8,5 @@
     <color name="colorText">#FFFFFF</color>
     <color name="colorLightText">#D1C4E9</color>
     <color name="backgroundfragment">#BDBDBD</color>
+    <color name="textcolor">#000000</color>
 </resources>
